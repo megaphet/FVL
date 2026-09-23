@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import './App.css'
 
-const WHATSAPP_NUMBER = '250791234567'
+const WHATSAPP_NUMBER = '250724029692'
 
 const products = [
   {
